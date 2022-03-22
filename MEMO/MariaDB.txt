@@ -1,0 +1,5 @@
+ORACLE     마리아
+TO_CHAR   date_format
+
+function 조회
+show function status where db = 'db명'
