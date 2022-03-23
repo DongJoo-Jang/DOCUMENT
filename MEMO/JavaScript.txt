@@ -1,0 +1,4 @@
+세션 스토리지 : 탭 기준으로 보존
+sessionStorage.setItem(keyname,value) , sessionStrage.getItem(keyname)
+로컬 스토리지 : 탭 닫아도 유지 따로 삭제 해줘야된다.
+localStorage.setItem(keyname,value) , localStrage.getItem(keyname)
