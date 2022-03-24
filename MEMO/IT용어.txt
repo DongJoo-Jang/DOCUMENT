@@ -1,0 +1,2 @@
+REDIS : Remote Dictionary Server
+원격 인메모리 DB
