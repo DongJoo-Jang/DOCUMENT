@@ -1,2 +1,9 @@
 position: absolute 
 : 일반적인 문서 흐름에서 제거하고 상위 요소 중 가장 가까운 position 지정 요소에 대해 상대적으로 오프셋을 적용
+
+flex  아이템에 flex 
+flex-grow, flex-shrink, flex-basis 을 한번에 설정가능
+flex-grow , flex-shink 여백 가져갈 비율 설정
+flex-basis 아이템 기본 사이즈 설정 
+
+gird 안에 플레스 사용 가능
