@@ -4,3 +4,6 @@ sessionStorage.setItem(keyname,value) , sessionStrage.getItem(keyname)
 localStorage.setItem(keyname,value) , localStrage.getItem(keyname)
 
 값 더하기 Number(a) + Number(b)
+
+세션사용
+var session = <%= Session["key"] %>
