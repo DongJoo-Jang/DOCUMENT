@@ -2,3 +2,7 @@
 @예약어 형태로 예약어들도 문자열 처럼 사용할 수 있다.
 
 히든필드 백단에서 참조 시 hfid.get("key") 할 필요없이  hfid["key"] 로 사용 가능 
+.aspx파일에서 <%= Session["key"] 먹는다
+
+콤보박스 소스로 값 선택 값 바꿔주고 싶을 때 selectedIndex 나 selected Item  건들필요 없이 Value 값 먹이면 된다.
+
