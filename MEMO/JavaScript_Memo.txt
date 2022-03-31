@@ -7,3 +7,11 @@ localStorage.setItem(keyname,value) , localStrage.getItem(keyname)
 
 세션사용
 var session = <%= Session["key"] %>
+
+프린터 이용 
+window.print()
+다음페이지로 넘기는 css
+<style>
+.endline{page-break-before:always}
+</style>
+

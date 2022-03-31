@@ -6,3 +6,5 @@
 
 콤보박스 소스로 값 선택 값 바꿔주고 싶을 때 selectedIndex 나 selected Item  건들필요 없이 Value 값 먹이면 된다.
 
+중단점에 우클릭 조건 설정 가능
+
