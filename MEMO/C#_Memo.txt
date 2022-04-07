@@ -14,3 +14,11 @@ ASP 프론트에서 데이터 바인딩 할 땐 Repeater 컨트롤 사용
 GetType 은  박싱되기 전 값으로 나온다
 ex) int a = 10;
     object b = a ; b.GetType() == int 
+
+IEnumerable 구현 객체  foreach 가능
+
+null 집합 연산자 ??   널이 아니면 앞에꺼 널이면 뒤에꺼
+ex)    string str1 = null;
+            string str2 = str1 ?? "없음";
+
+            Console.WriteLine($"str1 :{str1} , str2 : {str2}");
