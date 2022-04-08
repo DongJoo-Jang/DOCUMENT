@@ -17,8 +17,13 @@ ex) int a = 10;
 
 IEnumerable 구현 객체  foreach 가능
 
+널 관련 연산자
+?. , ?[] , ?? , ??= 
+
 null 집합 연산자 ??   널이 아니면 앞에꺼 널이면 뒤에꺼
 ex)    string str1 = null;
             string str2 = str1 ?? "없음";
 
             Console.WriteLine($"str1 :{str1} , str2 : {str2}");
+
+viewstate 안쓸꺼면 false 해놓으면 랜더링 시간 많이 줄인다
