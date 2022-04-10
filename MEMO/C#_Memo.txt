@@ -26,4 +26,8 @@ ex)    string str1 = null;
 
             Console.WriteLine($"str1 :{str1} , str2 : {str2}");
 
-viewstate 안쓸꺼면 false 해놓으면 랜더링 시간 많이 줄인다
+클래이언트 측 상태관리
+HiddenField , View State , Cookies , Control State , Query String
+
+서버측 상태관리
+Session, Application 
