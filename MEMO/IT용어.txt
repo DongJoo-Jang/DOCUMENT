@@ -11,3 +11,6 @@ MODBUS : PLC 연결 모듈 (거의 표준)
 
 CDN : Client Delivery Network
 정적 데이터 전송 서버 ( 라이브러리 다운 필요없이 가져다 쓸 때 쓴다)
+
+3계층형 시스템 (웹 서버 AP서버 DB 서버)
+클라이언트PC ➜ 웹 서버 ➜ AP 서버 ➜ DB 서버 ➜ AP서버 ➜ 웹 서버 ➜ 클라이언트PC
