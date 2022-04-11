@@ -8,3 +8,6 @@ WAS : Web Apllication Server
 
 MELSEC : 미쯔비시 PLC 연결모듈
 MODBUS : PLC 연결 모듈 (거의 표준) 
+
+CDN : Client Delivery Network
+정적 데이터 전송 서버 ( 라이브러리 다운 필요없이 가져다 쓸 때 쓴다)
